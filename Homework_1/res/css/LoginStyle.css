@@ -7,7 +7,7 @@
     }
 }
 @media (min-width: 431px) {
-    /*Nav config for smartphones */
+    /*Nav config for desktops */
     header {
         display: flex;
         flex-direction: row;
