@@ -103,7 +103,7 @@ main {
 }
 
 .like-btn {
-    background: #007bff;
+    background: blue;
     color: white;
     max-width: 60px;
     border-radius: 4px; 
@@ -113,7 +113,7 @@ main {
 }
 
 .like-btn:hover {
-    background: #0056b3;
+    background: blue;
     filter: brightness(.90);
 }
 
