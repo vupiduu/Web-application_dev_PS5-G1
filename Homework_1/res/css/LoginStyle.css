@@ -40,21 +40,17 @@
     margin: 5px 0;
 }
 
+.login-box a ~ p {
+    font-size: medium;
+
+}
+
 .login-box input[type="email"],
-.login-box input[type="password"] {
+.login-box input[type="password"]
+{
     width: 65%;
     padding: 8px;
     margin: 6px 0;
     border: 1px solid #ccc;
-    border-radius: 3px;
-}
-
-button {
-    width: 35%;
-    padding: 8px;
-    margin-top: 10px;
-    background-color: blue;
-    color: white;
-    border: none;
     border-radius: 3px;
 }
