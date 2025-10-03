@@ -138,7 +138,6 @@ main {
     }
     
     #sidebar-left, #sidebar-right {
-        
-        min-height: auto;
+        display: none;
     }
 }
