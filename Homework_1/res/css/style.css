@@ -24,7 +24,6 @@
 .nav li { display: inline-block;}
 
 .nav a:link{
-    color: red;
     text-decoration: none;
 }
 
